@@ -54,7 +54,11 @@
     <None Include="App.config" />
     <None Include="OpenTK.dll.config" />
     <None Include="packages.config" />
+    <None Include="raspunsuriLab3.md" />
     <None Include="tema.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="coordonate.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
